@@ -1,0 +1,371 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+music player new
+</name>
+</assembly>
+<members>
+<member name="T:music_player_new.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources._2GoVNn2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.apsara_tv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.apsata">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=apsaratv_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Audacity_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.b40d384b6f862f038522f022a1100a27_original">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.b81f602b8941ba8b7b50edc930c56898">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Bayon">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=bayontv1_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.bayon_tv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.bayon_tv_news_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.bayonEnter">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=bayontv_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Broom_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Close_Window_32px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.CNC">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=653&amp;controlbar=over&amp;file=channel3_240p&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F119.82.251.230%3A1935%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.cnc_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.CTN">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=241&amp;controlbar=over&amp;file=channel2_240p&amp;plugins=viral-2d&amp;streamer=rtmpt%3A%2F%2F119.82.251.230%3A80%2Flive%2F&amp;stretching=exactfit&quot; /&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.ctn_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.End_32px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.ETV">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=etv_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.etv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Fire_Heart_Wallpaper_HD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Fire_Heart_Wallpaper_HD1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.giphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Google_Play_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Google_Play_32px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.hang_meas_hdtv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.HDTV_32px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Horizontal_Settings_Mixer_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Less_Than_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.maxresdefault__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Medium_Volume_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.More_Than_32px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Music_Record_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Musical_Notes_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Mute_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.mytv">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=653&amp;controlbar=over&amp;file=channel1_240p&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F119.82.251.230%3A1935%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.mytv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.New_Moon_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.New_Moon_32px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.New_Moon_32px_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.New_Moon_32px_31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.New_Moon_32px_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Pause_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.PNN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.PNN1">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=2630&amp;controlbar=over&amp;file=pnn_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Radio_2_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.RasmeyHangMeasHDTV">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.RasmeyHangMeasHDTV1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Repeat_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Repeat_32px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.RHM">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=7957&amp;controlbar=over&amp;file=livestream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F111.92.240.134%3A80%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.seatv">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=seatv_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.seatv_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Shutdown_32px_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Shutdown_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Skip_to_Start_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Speaker_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Strike_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.tunes_music_website_free_bootstrap_html_template">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.TV3">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=tv3.stream_250&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2Fsvr-wow-live.khmerlive.tv%2Flive%2F_definst_%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.tv3_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.TV5">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=tv5_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.tv5_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.TV9">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=ctv9_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.tv9_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.TVK">
+<summary>
+  Looks up a localized string similar to &lt;embed src=&apos;http://mekongtv.net/media/player.swf&apos; height=&apos;410&apos; width=&apos;728&apos; allowscriptaccess=&apos;always&apos; allowfullscreen=&apos;true&apos; flashvars=&quot;&amp;autostart=true&amp;bandwidth=4822&amp;controlbar=over&amp;file=tvk_480k.stream&amp;plugins=viral-2d&amp;streamer=rtmp%3A%2F%2F203.176.130.123%3A8989%2Flive%2F&amp;stretching=exactfit&quot;/&gt;.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.tvk_channel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.USB_Off_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Visible_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:music_player_new.My.Resources.Resources.Wi_Fi_32px_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

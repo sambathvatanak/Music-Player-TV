@@ -1,0 +1,57 @@
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\music player new.exe.config
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\Interop.WMPLib.dll
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbproj.ResolveComReference.cache
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\music player new.exe
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\music player new.pdb
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\music player new.xml
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\Interop.WMPLib.dll
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbprojResolveAssemblyReference.cache
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmAbout.resources
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.Form1.resources
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmTV.resources
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmVolSetting.resources
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.Resources.resources
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbproj.GenerateResource.Cache
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.exe
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.xml
+C:\Users\vatanak\documents\visual studio 2015\Projects\music player new\music player new\obj\Debug\music player new.pdb
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\music player new.exe.config
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\music player new.exe
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\music player new.pdb
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\music player new.xml
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\Interop.WMPLib.dll
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\bin\Debug\AxInterop.WMPLib.dll
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbprojResolveAssemblyReference.cache
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\Interop.WMPLib.dll
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\AxInterop.WMPLib.dll
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbproj.ResolveComReference.cache
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmAbout.resources
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.Form1.resources
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmTV.resources
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.frmVolSetting.resources
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music_player_new.Resources.resources
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.vbproj.GenerateResource.Cache
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.exe
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.xml
+H:\data D\set windows\Documents\Visual Studio 2015\Projects\music player new\music player new\obj\Debug\music player new.pdb
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\music player new.exe.config
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.vbproj.ResolveComReference.cache
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.exe
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.xml
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.pdb
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\music player new.exe
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\music player new.pdb
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\music player new.xml
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.vbprojResolveAssemblyReference.cache
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music_player_new.frmAbout.resources
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music_player_new.Form1.resources
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music_player_new.frmTV.resources
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music_player_new.frmVolSetting.resources
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music_player_new.Resources.resources
+C:\Users\Vatanak Sambath\Desktop\music player & TV\music player new\obj\Debug\music player new.vbproj.GenerateResource.Cache
